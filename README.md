@@ -8,13 +8,13 @@ Multiple machine learning models will be employed, and we will find the model wi
 
 ## Models
 We will train the following models
-
+```
 Logistic regression
 Support vector machines
 Decision tree
 Random forest
 K-nearest neighbor
-
+```
 ## Results
 We observe that all models perform quite similarly, with an accuracy on the range of 0.75 to 0.80.  
 The best performing model was random forest classifier, with an accuracy of 0.79.  
